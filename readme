@@ -1,0 +1,75 @@
+Begoniatool v3.0 by 9AspecT
+Contact with me 
+Telegram:AspecT06
+Instagram:9aspectr
+Gmail:aspectr4769@gmail.com
+
+What is Begoniatool?
+Begoniatool is a tool that all transactions can be done for Redmi Note 8 Pro.
+
+What transactions can be done?
+1-Flashing rom
+-Stock rom(Recovery-Fastboot)
+Recovery also works when lock is closed,works in stock or custom recovery
+
+There are two types of flash methods for fastboot:MiFlash and CMDFlash
+
+There are 3 types of methods for CMD Flash
+Flash and reset user data:Flash rom and reset your data
+Flash and keep user data:Flash rom and keep your data
+Flash,reset user data and lock:Flash rom,reset your data and lock bootloader
+
+-Custom rom
+It is flashed from the recovery menu.Written on miui and TWRP is required
+What software to switch from?
+Only Stock Rom but can be switched over Android 10 and Android 9 
+
+-CFW Rom
+It is flashed from the recovery menu.Written on aosp and TWRP is required
+What software to switch from?
+Android 10 or Android 9 for stock rom
+Only Android 9 for Custom Rom(Not cfw or gsi)
+Only Android 10 for CFW Rom (All cfw softwares are already android 10 ;D)
+
+2-Flashing TWRP
+Can be installed for 3 types of software:
+-Android 10 or Android 9 for Stock Rom
+-Android 10 or Android 9 for Custom Rom(For custom rom use stock twrp)
+-Android 10 for CFW Rom(There are 3 twrps for this software)
+
+3-Root
+You can install or uninstall root
+
+4-Bootloader
+You can unlock bootloader(lock bootloader is in maintenance)
+Info:Bootloader must be unlocked for most transactions here.
+
+5-Unbrick
+You can save the phone from bricking or bootloop
+If your problem is not listed; You can contact me.
+
+6-Other Transactions
+In this section you can;
+-Rebooting device(in System,Fastboot or Recovery to System,Fastboot,Recovery and Sideload)
+-Sending file,Sending and installing an apk or Getting file
+-Install TWRP and Magisk Modules
+-Install GAPPS
+
+7-For Developer Transactions
+Caution!This section for only developers.Please don't try if you don't know
+In this section you can;
+-Flash GSI Rom(in maintenance)
+-Change boot animation(Root needed)
+-Install Engineer mode(For cfw roms)(Root needed)
+-Install Indonesia Call(For Stock roms)
+-Flash kernel (for cfw roms)
+-Install 60 fps miui screen recorder[for miui roms(stock or custom)](Root needed)
+-Install EdXposed
+-Wifi channel expansion(Root needed)
+-Console for manual transactions
+
+8-Feedback
+Contact with me :)
+
+9-Driver Install
+All necessary drivers will be installed in this section(mediatek usb vcom drivers and adb fastboot drivers)
